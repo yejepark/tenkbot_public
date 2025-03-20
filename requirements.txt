@@ -1,0 +1,6 @@
+langchain
+langchain-huggingface
+langchain-pinecone
+langchain-groq
+langgraph
+edgartools
